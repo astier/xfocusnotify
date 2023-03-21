@@ -1,6 +1,6 @@
 ## Description
 
-[xfocusnotify](https://github.com/astier/xfocusnotify) is a X11-tool which exits
+[xfocusnotify](https://github.com/astier/xfocusnotify) is an X11-tool which exits
 when a window is focused and prints the respective window-id. It's meant for
 scripting where for some reason you need to know when a new window gets focused
 and you want to do something with it. It follows
